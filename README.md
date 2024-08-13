@@ -28,10 +28,12 @@ sudo ./clash-linux-amd64-v3
 ## 5 configurate your linux system proxy 
 ![Image text](https://github.com/DDDIII123/clash_linux/blob/main/image/222222.jpg)
 
-##6 use browser to configurate clash
+## 6 use browser to configurate clash
 
 http://clash.razord.top
 
+## notice
+when you run clash next time, you should not use sudo to run clash.
 
 
 
