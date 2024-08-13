@@ -1,7 +1,7 @@
 # clash_linux
 clash for linux
 
-##1 git clone this registry
+##1 git clone this Repository
 
 
 ##2 unzip Clash_for_linux.zip
