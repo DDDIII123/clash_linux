@@ -1,7 +1,7 @@
 # clash_linux
 clash for linux
 
-Before use, it is necessary to be able to use clashforw_windows
+Before use, it is necessary to be able to use clash_for_windows
 ## 1 git clone this Repository
 
 
