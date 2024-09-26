@@ -7,9 +7,7 @@ Before use, it is necessary to be able to use clash_for_windows
 
 ## 2 unzip Clash_for_linux.zip
 
-```bash
-sudo ./clash-linux-amd64-v3
-```
+
   
 ## 3 configurate file
 
